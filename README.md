@@ -9,7 +9,7 @@
 ## Установка
 
 ```bash
-$ composer require m-chernysh/fish-text
+$ composer require chernysh/fish-text
 ```
 
 ## Использование
